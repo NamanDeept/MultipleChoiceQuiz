@@ -171,5 +171,6 @@ public class MainActivity extends AppCompatActivity {
 
     private void updateScore(int point){
         mScoreview.setText(""+point);
+        //Changed.d
     }
 }
